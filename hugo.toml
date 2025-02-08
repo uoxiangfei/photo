@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = '和和图片库...❤️...🐟'
+theme = 'gallery'

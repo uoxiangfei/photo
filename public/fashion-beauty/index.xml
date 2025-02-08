@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>🈲Travel on 和和图片库...❤️...🐟</title>
+    <link>http://localhost:1313/fashion-beauty/</link>
+    <description>Recent content in 🈲Travel on 和和图片库...❤️...🐟</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fashion-beauty/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>旅行</title>
+      <link>http://localhost:1313/fashion-beauty/xixi/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fashion-beauty/xixi/</guid><media:content url="http://localhost:1313/fashion-beauty/xixi/2021_01_30_16_42_IMG_0175_hu15336409264202708954.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/fashion-beauty/xixi/2021_01_30_16_42_IMG_0175_hu15336409264202708954.JPG&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>神州半岛</title>
+      <link>http://localhost:1313/fashion-beauty/xixi2/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fashion-beauty/xixi2/</guid><media:content url="http://localhost:1313/fashion-beauty/xixi2/2021_01_26_10_00_IMG_0073_hu13847498208639106866.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/fashion-beauty/xixi2/2021_01_26_10_00_IMG_0073_hu13847498208639106866.JPG&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
