@@ -14,9 +14,6 @@ jobs:
     - uses: actions/checkout@v4
     - name: install
       run: sudo apt -y install hugo
-    #- uses: peaceiris/actions-hugo@v2
-    #  with:
-    #    hugo-version: "latest"
     - name: hugo
       run: hugo
     - name: Deploy
