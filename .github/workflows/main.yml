@@ -13,7 +13,7 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - name: install
-      run: apt -y install hugo
+      run: sudo apt -y install hugo
     #- uses: peaceiris/actions-hugo@v2
     #  with:
     #    hugo-version: "latest"
